@@ -1,0 +1,1 @@
+df64bdb8-e006-4d5d-ae10-4d3417832fd3 autoenable=true bucket=cneuromod.langlocalizer.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.langlocalizer.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781544079s
